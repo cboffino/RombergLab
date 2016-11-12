@@ -5,5 +5,5 @@ Developed for macOS™ computers and Wii Balance Board™
 --
 Version 1.2: Save plots & macOS Sierra support
 --
-OS X™ is a trademark of Apple inc.
+macOS™ is a trademark of Apple inc.
 Wii Balance Board™ is a trademark of Nintendo®.
